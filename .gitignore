@@ -1,0 +1,51 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------
+# Virtual environments
+# -----------------------
+.venv/
+venv/
+
+# -----------------------
+# IDE / Editors
+# -----------------------
+.idea/
+.vscode/
+
+# -----------------------
+# OS files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Logs / debug
+# -----------------------
+debug_runs/
+*.log
+
+# -----------------------
+# Environment / secrets
+# -----------------------
+.env
+.env.*
+settings.py
+settings/
+
+# -----------------------
+# Sensitive runtime data
+# -----------------------
+services/history/
+history/
+
+# -----------------------
+# Fetch / external data
+# -----------------------
+fetch/
+services/fetch/
