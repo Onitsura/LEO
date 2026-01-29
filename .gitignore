@@ -48,4 +48,4 @@ history/
 # Fetch / external data
 # -----------------------
 fetch/
-services/fetch/
+services/fetch.py
